@@ -1,1 +1,1 @@
-Solved Python examples 
+Python solutions for Coding Challenges
